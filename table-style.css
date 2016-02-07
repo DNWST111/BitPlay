@@ -1,0 +1,15 @@
+table,tr, td{
+margin: auto;
+border: solid purple 1px;
+padding: 5px;
+text-align:center;
+font-size:36px;
+}
+p{
+margin: auto;
+text-align:center;
+font-size:24px;
+}
+td#show-binary:hover{
+background-color:orange;
+}
